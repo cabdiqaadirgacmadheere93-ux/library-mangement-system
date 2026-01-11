@@ -78,7 +78,8 @@ library-system/
 
 This project is open-source and available for educational and private use.
 ## Group Names
- Abdulkadir Omar Hassan   C1220674
- Mohamed Abdow Omar  C1210964
- Yahye said Abdirahman  C1220673
- Fadumo Ali Warsame C1221190
+
+* Abdulkadir Omar Hassan — C1220674
+* Mohamed Abdow Omar — C1210964
+* Yahye Said Abdirahman — C1220673
+* Fadumo Ali Warsame — C1221190
